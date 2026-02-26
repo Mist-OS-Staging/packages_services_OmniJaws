@@ -32,7 +32,7 @@ import android.text.TextUtils;
 import android.widget.CompoundButton;
 import android.widget.CompoundButton.OnCheckedChangeListener;
 
-import com.android.internal.util.crdroid.OmniJawsClient;
+import com.android.internal.util.mist.OmniJawsClient;
 import com.android.settingslib.widget.MainSwitchPreference;
 import com.android.settingslib.widget.SettingsBasePreferenceFragment;
 
